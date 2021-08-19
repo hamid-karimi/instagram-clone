@@ -1,7 +1,7 @@
 # Getting Started with Create React App
+<a href="https://instagram-clone-f92f9.web.app/">Live Demo</a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This Project based on React, Redux and Firebase.
 ## Available Scripts
 
 In the project directory, you can run:
